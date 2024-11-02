@@ -156,5 +156,5 @@ plt.plot(reservoir_sizes, MSE_per_reservoir_size, 'r')
 plt.show()
 
 # Show NRMSE per reservoir size
-plt.plot(reservoir_sizes, NRMSE_per_reservoir_size, 'r')
+plt.plot(reservoir_sizes, NRMSE_per_reservoir_size, 'b')
 plt.show()
